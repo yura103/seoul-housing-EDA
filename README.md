@@ -87,6 +87,10 @@ BUT, 입지 좋은 오래된 건물은 예외 (특히 1979년 이전)
 
 [<img src="https://img.shields.io/badge/Streamlit-App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" width="180"/>](https://seoul-housing.streamlit.app/)
 
+서울 주거 데이터를 간단한 조건으로 골라보고, **지도와 표로 한눈에 비교**할 수 있는 대시보드입니다.  
+사이드바에서 **구·용도·면적·연식·최소 층수·예산(최소~최대)** 을 선택하면 결과가 바로 반영됩니다.
+
+
 ![Step 1](streamlit/image_1.png)
 
 ![Step 2](streamlit/image_2.png)
@@ -95,13 +99,16 @@ BUT, 입지 좋은 오래된 건물은 예외 (특히 1979년 이전)
 
 ## 📈 아쉬웠던 점 및 향후 발전 계획
 
+- 
 - 주변 인프라 데이터를 적극적으로 활용하지 못 한 점
 - 미래의 변동될 가격을 반영하지 못 한 점
 - 향후에는 지하철역 거리, 학군, 범죄율, 기후 요인까지 포함한 분석도 가능
-
+- 대시보드는 서울 전 지역을 포괄했으나, 본 EDA는 강서구·송파구·중구에 한정해 분석한 점
 ---
 
-
+## 🏆 성과
+- **2024 국민대학교 D&A 학회 Basic Session EDA Competition 1등**
+  - *1st Place, 2024 Kookmin Univ. D&A Basic Session EDA Competition*
 
 
 
