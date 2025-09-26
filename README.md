@@ -1,6 +1,5 @@
 # 🏠 서울시 부동산 실거래가 분석 프로젝트
 
----
 
 ## 📌 프로젝트 개요
 
@@ -56,10 +55,8 @@ EDA 분석 방향 제시
 
 ### 2️⃣ 데이터 분석
 
-- **기간별 거래량 및 가격 변화 시각화**
-- **지역별 평균 거래가 및 분포 분석**
 - **건축 연도, 면적 등 다양한 변수 간 상관관계 탐색**
-- **이상치(비정상 거래) 감지 및 시각화**'
+[🔎 EDA 노트북 보기 (GitHub)](https://github.com/yura103/seoul-housing-EDA/blob/main/eda/EDA_Seoul.ipynb)
 
 
 ### 3️⃣ 분석 결과 요약
@@ -91,9 +88,9 @@ BUT, 입지 좋은 오래된 건물은 예외 (특히 1979년 이전)
 사이드바에서 **구·용도·면적·연식·최소 층수·예산(최소~최대)** 을 선택하면 결과가 바로 반영됩니다.
 
 
-![Step 1](streamlit/image_1.png)
+![Step 1](streamlit/images/app_1.png)
 
-![Step 2](streamlit/image_2.png)
+![Step 2](streamlit/images/app_2.png)
 
 ---
 
