@@ -9,7 +9,7 @@ import random
 # =========================
 # 데이터 로드
 # =========================
-df = pd.read_csv("Data/2024_price.csv")
+df = pd.read_csv("data/2024_price.csv")
 
 # 물건금액 범위
 min_price_val = float(df["물건금액"].min())
