@@ -55,9 +55,7 @@ EDA 분석 방향 제시
 
 ### 2️⃣ 데이터 분석
 
-- **건축 연도, 면적 등 다양한 변수 간 상관관계 탐색**
-
-[🔎 EDA 노트북 보기 (GitHub)](https://github.com/yura103/seoul-housing-EDA/blob/main/eda/EDA_Seoul.ipynb)
+- **건축 연도, 면적 등 다양한 변수 간 상관관계 탐색**  [🔎 EDA 노트북 보기 (GitHub)](https://github.com/yura103/seoul-housing-EDA/blob/main/eda/EDA_Seoul.ipynb)
 
 
 ### 3️⃣ 분석 결과 요약
