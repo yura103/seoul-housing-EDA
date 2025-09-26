@@ -84,11 +84,11 @@ BUT, 입지 좋은 오래된 건물은 예외 (특히 1979년 이전)
 
 ## 🚀 Streamlit 앱
 
-👉 [Streamlit 실시간 대시보드 보러가기](https://m7wq3cna37q8vzejeq2ta3.streamlit.app/) 
+[<img src="https://img.shields.io/badge/Streamlit-App-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" width="180"/>](https://seoul-housing.streamlit.app/)
 
 ![Step 1](streamlit/image_1.png)
 
-![Step 2](stremalit/image_2.png)
+![Step 2](streamlit/image_2.png)
 
 ---
 
